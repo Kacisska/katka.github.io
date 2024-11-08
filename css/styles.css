@@ -10976,6 +10976,10 @@ section.resume-section .resume-section-content {
   width: 100%;
 }
 
+.domu {
+  font-size: 12px;
+  }
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
